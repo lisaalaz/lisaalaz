@@ -3,10 +3,9 @@
 
 I am a PhD student at Imperial College London, studying and working on NLP and dialogue agents. In particular I am learning about:
 
-  - 🧠 Empathy and social intelligence in dialogue agents  
-  - ☠️ Toxicity and harmful bias mitigation
-  - 📖 Retrieval augmentation, long-term memory and factuality
   - 🎯 Target-guided open-ended conversation
+  - 🧠 Empathy and social intelligence in dialogue agents  
+  - 📖 Retrieval augmentation, long-term memory and factuality
   - 📊 Evaluation frameworks for all of the above and more
  
 &nbsp;
