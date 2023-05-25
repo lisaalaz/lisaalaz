@@ -6,7 +6,7 @@ I am a PhD student at Imperial College London, studying and working on NLP and d
   - 🎯 Target-guided open-ended conversation
   - 🧠 Empathy and social intelligence in dialogue agents  
   - 📖 Retrieval augmentation, long-term memory and factuality
-  - 📊 Evaluation frameworks for all of the above and more
+  - 📊 Evaluation frameworks for all of the above
  
 &nbsp;
 
