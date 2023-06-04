@@ -4,7 +4,7 @@
 I am a PhD student at Imperial College London, studying and working on NLP and dialogue agents. In particular I am learning about:
 
   - 🎯 Target-guided open-ended conversation
-  - 🧠 Reasoning in LLMs and dialogue agents  
+  - 🧠 Reasoning and commonsense 
   - 📖 Retrieval augmentation strategies
   - 📊 Evaluation frameworks for all of the above
  
