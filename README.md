@@ -1,12 +1,10 @@
 🤖 Welcome
 ----------
 
-I am a PhD student at Imperial College London, studying and working on NLP and dialogue agents. In particular I am learning about:
+I am a PhD student at Imperial College London, studying and working with large language models. In particular I am learning about:
 
-  - 🎯 Target-guided open-ended conversation
-  - 🧠 Reasoning and commonsense 
-  - 📖 Retrieval augmentation strategies
-  - 📊 Evaluation frameworks for all of the above
+  - 🧠 Strategic reasoning and planning
+  - 🛠️ LLMs with tools
  
 &nbsp;
 
