@@ -5,8 +5,8 @@ I am a PhD student at Imperial College London, studying and working with large l
 
   - 🧠 Strategic reasoning and planning
   - 🛠️ LLMs with tools
+  - 🎚️ Calibration and robustness
  
-
 
 🧰 Toolkit 
 ----------
