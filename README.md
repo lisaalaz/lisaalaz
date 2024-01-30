@@ -1,10 +1,10 @@
-🤖 Welcome
+👋 Hi there!
 ----------
 
 I am a PhD student at Imperial College London, studying and working with large language models. In particular I am learning about:
 
-  - 🧠 Strategic reasoning and planning
-  - 🛠️ LLMs with tools
+  - 🧠 Reasoning and planning
+  - 🤖 LLMs as agents
   - 🎚️ Calibration and robustness
  
 
