@@ -1,7 +1,7 @@
 👋 Hi there!
 ----------
 
-I am a PhD student at Imperial College London, interested in machine learning and natural language processing. In particular I am learning about:
+I am a PhD student in machine learning and natural language processing at Imperial College London. Currently I am learning about:
 
   - 🧠 Reasoning and planning
   - 🤖 LLMs as agents
