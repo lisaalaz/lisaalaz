@@ -3,10 +3,10 @@
 
 I am a PhD student in machine learning and natural language processing at Imperial College London. Currently I am learning about:
 
-  - 🧠 Strategic planning & reasoning
+  - 🧠 Reasoning & planning
   - 🛠️ Large language models + tools
   - 🤖 LLMs as autonomous agents
-  - 🎚️ Calibration and robustness
+  - 🦾 Model robustness
  
 
 🧰 Toolkit 
