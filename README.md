@@ -6,7 +6,7 @@ I am a PhD student in machine learning and natural language processing at Imperi
   - 🧠 Reasoning & planning
   - 🛠️ Large language models + tools
   - 🤖 LLMs as autonomous agents
-  - 🦾 Model robustness
+  - 🦾 Safety and robustness
  
 
 <!--
